@@ -5,11 +5,11 @@
 <p align="center">
   <p align="center">
     <br />
-    <a href="discord.brickforce-aurora.de">Discord</a>
+    <a href="https://discord.brickforce-aurora.de">Discord</a>
     ·
-    <a href="brickforce-aurora.de">Website</a>
+    <a href="https://brickforce-aurora.de">Website</a>
     ·
-    <a href="roadmap.brickforce-aurora.de">Roadmap</a>
+    <a href="https://roadmap.brickforce-aurora.de">Roadmap</a>
   </p>
 </p>
 
