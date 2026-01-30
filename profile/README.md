@@ -5,7 +5,7 @@
 <p align="center">
   <p align="center">
     <br />
-    <a href="https://discord.brickforce-aurora.de">Discord</a>
+    <a href="https://discord.com/invite/npqB9f6xXZ">Discord</a>
     ·
     <a href="https://brickforce-aurora.de">Website</a>
     ·
